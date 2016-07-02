@@ -1,0 +1,540 @@
+html, body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+  color: white;
+}
+html {
+	margin:0px;
+	padding:0px;
+	height: 100%;
+	width: 100%;
+}
+body{
+	margin:0px;
+    padding:0px;
+	background: #303030;
+}
+
+h1{
+	display: block;
+	position: relative;
+	font-family: "Roboto","Helvetica","Arial",sans-serif;
+	font-size: 20px;
+	line-height: 1;
+	letter-spacing: .02em;
+	font-weight: 400;
+	color: #757575; 
+}
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+.banner-text {
+  font-size: 35px;
+  font-weight: 900;
+  line-height:50px;
+  color: white;
+  line-height: 100px; 
+}
+.banner-icon {
+font-family:'Material Icons';
+  font-size: 35px !important;
+  font-weight: 900 !important;
+  color: white !important;
+  margin-left: 15px;
+}
+#Nav-Box{
+	height: 90px;
+	width: 100%;
+	background: #263238;
+	vertical-align:middle;
+	margin-bottom: 20px; 
+}
+#Nav-Bar{
+  z-index: 999;
+	position: absolute;
+	height: 64px;
+	margin-left: 240px;
+	width: calc(100% - 240px);
+	background: #212121;
+	top: 0;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+    display: flex;
+  align-items: center; /* align vertical */
+}
+#Nav-Bar h1{
+  margin-left: 50px;
+}
+
+#Nav-Left{
+	width: 240px;
+	height: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+	background: #37474f;
+  z-index: 9999;
+}
+#Nav-Toggle{display: none;}
+
+/* Settings drop down and top "Nav" */
+#Nav-Bar-Box{
+  height: 100%;
+  margin-left:auto; 
+  margin-right:50px;
+}
+
+#Login-Box{
+  width: 100%;
+  background: #455A64;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+#Login-Box img{
+  height: 60px;
+  border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+border: 0px solid #383638;
+display: inline-block; 
+   vertical-align:middle;
+
+}
+
+#Login-Box a{
+  display: flex !important;
+  flex-direction: row;
+  align-items: center;
+}
+#Login-Box span{
+  padding-left: 10px;
+  width: 130px;
+    display: inline-block; 
+    vertical-align:middle;
+}
+.Logout{
+  color: #BDBDBD !important;
+}
+.Nav-Link{
+	display: flex !important;
+	flex-direction: row;
+	align-items: center;
+	font-size: 15px;
+	font-weight: 500;
+	color:#7e888d;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.56);
+
+}
+.Nav-Link:hover{
+background: #607d8b;
+}
+
+a, li {
+  color: #E0E0E0;
+  text-decoration: none;
+}
+
+.nav {
+  width: 20px;
+
+}
+.nav > li {
+  display: inline-block;
+  cursor: pointer;
+text-align: center;
+}
+.nav > li:hover {
+  background: #424242;
+}
+
+.drop {
+  text-align: center;
+  position: relative;
+  width: 100%
+}
+.drop ul {
+
+  background: #424242;
+  position: absolute;
+  right: 0;
+
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  -webkit-transform: scale(0);
+          transform: scale(0);
+  -webkit-transform-origin: top right;
+          transform-origin: top right;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 8px 0 rgba(0, 0, 0, 0.12);
+}
+.drop ul li {
+  display: block;
+  width: 100%;
+}
+.drop ul li a {
+  width: 100%;
+  padding: 1em;
+  display: inline-block;
+  white-space: pre;
+  box-sizing: border-box;
+}
+.drop ul li a:hover {
+  background: #757575;
+}
+.drop:hover ul {
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.login{
+  box-shadow: 0 0px 2px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.2);
+  color: #FFF;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #EEEEEE;
+  transition: all 0.2s ease-in-out;
+  display: inline-block;
+  height: 36px;
+  padding: 0 26px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  border-radius: 2px;
+  text-align: center;
+  line-height: 36px;
+  vertical-align: middle;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  position: relative;
+  overflow: hidden;
+}
+.login:hover{
+  background: #E0E0E0;
+}
+
+.login i{
+  padding-right: 10px;
+}
+/* ~END~ Settings drop down and top "Nav" */
+/* ~Start~ Pastebin " */
+
+
+.Small-Av {
+  height: 50px;
+  border-radius: 200px 200px 200px 200px;
+  -moz-border-radius: 200px 200px 200px 200px;
+  -webkit-border-radius: 200px 200px 200px 200px;
+  border: 0px solid #383638;
+}
+#P-Entry{
+  padding-bottom: 5px;
+  padding-top: 10px;
+}
+#P-Entry:nth-child(even) {
+  width: 100%;
+  background-color: #4f4f4f;
+}
+#P-EntryInfo{ 
+  padding-left: 30px;
+  height: 50px;
+  display: flex !important;
+  flex-direction: row;
+  align-items: center;
+
+  }
+.P-Name{
+  font-size: 20px;
+  font-weight: 500;
+  color: #e0e0e0;
+  padding-left: 10px;
+  display: inline;}
+.P-Date{
+  padding-top: 5px;
+  color: #BDBDBD;
+  font-size: 13px;
+  padding-left: 10px;
+  display: inline;}
+.P-Meassage{
+  padding-left: 30px;
+}
+.PasteBox{ 
+  height: 800px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.PasteBox h1{ 
+  font-size: 23px;
+  font-weight: 500;
+  color: #e0e0e0;
+  padding-left: 30px;
+
+}
+/* ~END~ SPastebin " */
+.Card-No-Padding{padding:0 0 0 0 !important;}
+.material-icons-NAV{
+
+font-family:'Material Icons';
+font-weight:400;
+font-style:normal;
+font-size:24px;
+line-height:1;
+letter-spacing:normal;
+text-transform:none;
+display:inline-block;
+word-wrap:normal;
+-moz-font-feature-settings:'liga';
+font-feature-settings:'liga';
+-webkit-font-feature-settings:'liga';
+-webkit-font-smoothing:antialiased;
+margin-right: 32px;
+margin-left: 40px;
+color: #78909c !important;
+}
+
+.material-icons{
+
+font-family:'Material Icons';
+font-weight:400;
+font-style:normal;
+font-size:24px;
+line-height:1;
+letter-spacing:normal;
+text-transform:none;
+display:inline-block;
+word-wrap:normal;
+-moz-font-feature-settings:'liga';
+font-feature-settings:'liga';
+-webkit-font-feature-settings:'liga';
+-webkit-font-smoothing:antialiased;
+color: #78909c !important;
+}
+
+#Page{
+  width: calc(100% - 240px);
+
+  margin-left:auto; 
+
+}
+#Content{
+  width: 80%;
+  margin-top: 50px; 
+  margin-left:auto; 
+  margin-right:auto;
+}
+#Banner{
+  background: url(../Images/Banner.jpg) no-repeat center center;
+  width: 100%;
+  height: 300px;
+  position: relative
+}
+.Title-Box { 
+  padding-left: 11%;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);   
+}
+.Title{
+  display:inline-block;
+  height: 60px;
+}
+.Title h1 {
+  padding-right: 20px;
+  font-size: 35px;
+  font-weight: 900;
+  color: #EEEEEE; 
+  border-bottom: 1px solid #EEEEEE;
+}
+.Title-Box h2 {
+  font-weight: 400;
+  padding-left: 10px;
+  font-size: 15px;
+  color: #E0E0E0;
+}
+.card {
+  animation:fly-in-from-left .5s 1s ease both;
+  background: #424242;
+  border-radius:3px;
+  margin:0 1rem 1rem;
+  padding:1rem 1rem 1.5rem 1.5rem;
+  user-select:none;
+  transform-origin:top left;
+
+-webkit-box-shadow: 0px 6px 18px 5px rgba(0,0,0,0.20);
+-moz-box-shadow: 0px 6px 18px 5px rgba(0,0,0,0.20);
+box-shadow: 0px 6px 18px 5px rgba(0,0,0,0.20);
+}
+
+.Piller_34{
+
+  width: 64% ;
+  vertical-align: top;
+
+  display: inline-block;
+}
+
+.Piller_14{
+  vertical-align: top;
+
+
+  width: 35%;
+  display: inline-block;
+}
+#Chat-Send-Box{
+  margin-top: 25px;
+  margin-left: 30px;
+  height: 90px;
+}
+input[type=text], select {
+    display: block;
+    float:left;
+    width: calc(100% - 130px);
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #424242;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-right: 15px;
+    background:  #757575;
+    font-size: 15px;
+    font-weight: 500;
+    color: #e0e0e0;
+
+}
+
+input[type=submit] {
+
+    display: block;
+    float:left;
+    width: 100px;
+    background-color: #00838F;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #006064;
+}
+
+/* ~Start~ Smaller Screen CSS (Set #1) */
+@media screen and (max-width: 1400px) {
+#Content{
+  width: 100%;
+  margin-top: 50px; 
+  margin-left:auto; 
+  margin-right:auto;
+}
+}
+
+/* ~Start~ Smaller Screen CSS (Set #2) */
+@media screen and (max-width: 1200px) {
+    .Piller_34{
+   width: 100% ;
+  }
+
+  .Piller_14{
+    width: 100%;
+  }
+  display: block;
+}
+
+  /* ~Start~ Moble/ CSS " */
+@media screen and (max-width: 720px) {
+#Nav-Right{
+  padding-top: 64px;
+  position: fixed;
+  width: 240px;
+
+}
+#Nav-Box{
+  height: 64px;
+  width: 240px;
+  position: fixed;
+
+  z-index: 999;
+}
+#Nav-Toggle{
+  display: block;
+  width: 45px;
+  height: 45px;
+}
+#Nav-Toggle i{
+  padding-left: 15px;
+  padding-top: 5px;
+  font-size: 35px;
+
+}
+#Nav-Box #Nav-Toggle i{
+
+position: fixed;
+padding-top: 15px;
+left: 0px;
+
+}
+#Nav-Box .banner-icon{display: none;}
+#Nav-Box .banner-text{
+line-height: 64px;
+position: fixed;
+padding-left: 60px;
+
+}
+.topnav { display: none;}
+.topnav.responsive {
+
+  display: block;
+  position: relative;}
+#Page {
+  width: 100%;
+}
+#Nav-Bar{
+  position: fixed;
+  width: 100% ;
+  margin-left: 0px;
+}
+.topnav.responsive, .topnav.responsive #Nav-Box .banner-text, .topnav.responsive #Nav-Box #Nav-Toggle i, .topnav.responsive #Nav-Box, .topnav.responsive #Nav-Right {
+    -webkit-animation: NavMove-IN 0.5s; /* Chrome, Safari, Opera */
+  animation: NavMove-IN 0.5s;
+}
+.topnav, .topnav #Nav-Box .banner-text, .topnav #Nav-Box #Nav-Toggle i, .topnav #Nav-Box, .topnav #Nav-Right {
+    -webkit-animation: NavMove-OUT 0.5s; /* Chrome, Safari, Opera */
+  animation: NavMove-OUT 0.5s;
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes NavMove-IN {
+    0%   {top: 0px; left: -240px; }
+    100%  {top: 0px; left: 0px; }
+}
+/* Standard syntax */
+@keyframes NavMove-IN {
+    0%   {top: 0px; left: -240px; }
+    100%  {top: 0px; left: 0px; }
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes NavMove-OUT {
+    0%   {top: 0px; left: 0px; }
+    100%  {top: 0px; left: -240px; }
+}
+/* Standard syntax */
+@keyframes NavMove-OUT {
+    0%   {top: 0px; left: 0px; }
+    100%  {top: 0px; left: -240px; }
+}
+}
