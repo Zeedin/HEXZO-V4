@@ -2,15 +2,16 @@
 <html lang="en">
 <head>
   <meta name="theme-color" content="#616161">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta charset="utf-8">
   <meta name="google-signin-client_id" content="570489780795-bcqjr96dpmseoo5mp704jsp0d4vv9b95.apps.googleusercontent.com">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <title>HEXZO :: Images</title>
+  <meta name="description" content="HEXZO:: File Browser, upload and download files">
+  <title>HEXZO :: Downloads</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="icon" href="/favicon.png">
+
 
   <!-- REMOVE PHP LINE ONCE DONE!!!!-->
   <?php
@@ -70,7 +71,7 @@
   </div>
   <div id="Nav-Bar">
 
-   <a id="Nav-Toggle" href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()"><i class="material-icons">dehaze</i></a><h1>Images</h1>
+   <a id="Nav-Toggle" href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()"><i class="material-icons">dehaze</i></a><h1>Downloads</h1>
 
 
    <div id="Nav-Bar-Box">
@@ -92,8 +93,8 @@
   <!-- Banner -->
   <div id="Banner">
     <div class="Title-Box">
-      <div class="Title"><h1>IMAGES</h1></div>
-      <h2>View and uploade Images</h2>
+      <div class="Title"><h1>DOWNLOADS</h1></div>
+      <h2>HEXZO File Share</h2>
     </div>
   </div>
   <!-- End of  Banner  -->
@@ -115,25 +116,31 @@
 
     <!-- Body -->
     <div class="card">
-      <form action = "<?php $_PHP_SELF ?>" method = "POST">
-        <?php
-        $thumbDir = "thumb/";
-        $dir = "p/";
-        $images = scandir($thumbDir);
-        foreach ($images as $key => $image) {
-          if( $image == '.' || $image == '..'  ){}
-            else {
-              echo '<div id="Gal-Images">';
+      <div id="Filebrowser" >
+        <form action = "<?php $_PHP_SELF ?>" method = "POST">
+          <?php
+          $dir = "Files/";
+          $Files = scandir($dir);
+          foreach ($Files as $key => $File) {
+            if( $File == '.' || $File == '..'  ){}
+              else {
 
-              if( isset ($Udata['id'])) {
-                echo '
-                <div id="checkbox" class="alin-right">
-                 <input type = "checkbox" id="'.$image.'" name="del-files[]" value="'.$image.'"/>
-                 <label for="'.$image.'"></label>
-               </div>
-               ';}
+                $fileInfo = pathinfo($dir.$File);
+                echo '<div  id="File-List" class="'.$fileInfo['extension'].'" >';
 
-               echo'<a href="'.$dir.$image.'"><img src="'.$thumbDir.$image.'"></a></div>';
+                echo '<div class="FileTypeHeader"><a>'.$fileInfo['extension'].'</a></div>';
+
+                if( isset ($Udata['id'])) {
+                  echo '
+                  <div id="checkbox_Left" class="alin-right">
+                   <input type = "checkbox" id="'.$File.'" name="del-files[]" value="'.$File.'"/>
+                   <label for="'.$File.'"></label>
+                 </div>
+                 ';}
+
+                 echo'<div class="'.$fileInfo['extension'].' FileTypeIcon" ><a href="'.$dir.$File.'"></a></div>
+                 <div class="FileName"><a>'.$fileInfo['filename'].'</a></div>
+               </div>';
              }
            }
 
@@ -143,14 +150,14 @@
 
           ?>
         </form>
-
       </div>
-
-
-
-
     </div>
+
+
+
+
   </div>
-  <!-- END of Page content -->
+</div>
+<!-- END of Page content -->
 
 </body>

@@ -1,0 +1,58 @@
+[03-Dec-2016 23:23:10 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[03-Dec-2016 23:23:10 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[08-Jan-2017 14:20:36 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[08-Jan-2017 14:20:36 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[25-Jan-2017 16:12:36 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[25-Jan-2017 16:12:37 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[25-Jan-2017 16:13:38 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[25-Jan-2017 16:13:38 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[29-Jan-2017 16:32:35 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[29-Jan-2017 16:32:35 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[09-Mar-2017 03:39:35 UTC] PHP Warning:  POST Content-Length of 9285704 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Mar-2017 19:39:35 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[08-Mar-2017 19:39:35 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[23-Mar-2017 01:20:01 UTC] PHP Warning:  POST Content-Length of 10245986 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[22-Mar-2017 18:20:01 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[22-Mar-2017 18:20:01 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[02-Apr-2017 14:01:19 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[02-Apr-2017 14:01:19 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[21-Apr-2017 13:22:10 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[21-Apr-2017 13:22:10 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 13:30:18 America/Vancouver] PHP Warning:  in_array() expects at least 2 parameters, 1 given in /home/hexzocom/public_html/Images/upload.php on line 19
+[28-Apr-2017 13:30:18 America/Vancouver] PHP Warning:  strtolower() expects exactly 1 parameter, 2 given in /home/hexzocom/public_html/Images/upload.php on line 19
+[28-Apr-2017 13:32:28 America/Vancouver] PHP Parse error:  syntax error, unexpected 'continue' (T_CONTINUE) in /home/hexzocom/public_html/Images/upload.php on line 22
+[28-Apr-2017 13:32:30 America/Vancouver] PHP Parse error:  syntax error, unexpected 'continue' (T_CONTINUE) in /home/hexzocom/public_html/Images/upload.php on line 22
+[28-Apr-2017 13:32:40 America/Vancouver] PHP Parse error:  syntax error, unexpected ';' in /home/hexzocom/public_html/Images/upload.php on line 21
+[28-Apr-2017 13:32:47 America/Vancouver] PHP Parse error:  syntax error, unexpected ';' in /home/hexzocom/public_html/Images/upload.php on line 21
+[28-Apr-2017 13:33:59 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 13:33:59 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 13:34:01 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 13:34:01 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 13:35:55 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 13:35:55 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 13:43:04 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 13:43:04 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 14:45:16 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 14:45:16 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 14:58:52 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[28-Apr-2017 14:58:52 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[30-Apr-2017 00:00:49 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[30-Apr-2017 00:00:49 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[30-Apr-2017 00:02:04 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[30-Apr-2017 00:02:04 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[03-May-2017 17:25:58 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[03-May-2017 17:25:58 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[03-May-2017 17:27:30 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[03-May-2017 17:27:30 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[08-May-2017 18:31:36 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[08-May-2017 18:31:36 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[16-May-2017 17:30:43 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[16-May-2017 17:30:43 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[26-May-2017 21:02:27 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[26-May-2017 21:02:27 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[27-May-2017 04:32:51 UTC] PHP Warning:  POST Content-Length of 26407196 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-May-2017 21:32:51 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[26-May-2017 21:32:51 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10
+[27-May-2017 04:34:32 UTC] PHP Warning:  POST Content-Length of 24774530 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-May-2017 21:34:32 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Images/upload.php on line 10
+[26-May-2017 21:34:32 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Images/upload.php on line 10

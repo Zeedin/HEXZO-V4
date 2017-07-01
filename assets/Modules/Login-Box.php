@@ -1,13 +1,12 @@
-              <?php
-
+<?php
              if(isset($_COOKIE['G-User'])) {
-                
+
                 $Udata = unserialize($_COOKIE['G-User']);
 
                   echo '<img src="'.$Udata['picture'].'""/>';
                     echo '<span>
                               <a>'. $Udata['name'].'</a>
-                              <a class="Logout" href="assets/Google-API/logout.php?logout"><i class="material-icons">exit_to_app</i> Logout</a>
+                              <a class="Logout" href="'.$base_dir.'assets/Google-API/logout.php?logout"><i class="material-icons">exit_to_app</i> Logout</a>
                           </span>';
                       }
         else{

@@ -2,7 +2,7 @@
 session_start();
 // set the cookies
 if($_GET["set"] === ""){
-	echo '<meta http-equiv="refresh" content="0; url=http://hexzo.com/V4/" />';
+	echo '<meta http-equiv="refresh" content="0; url=http://hexzo.com/" />';
 }
 
 else{

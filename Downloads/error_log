@@ -1,0 +1,251 @@
+[10-Nov-2016 18:06:42 UTC] PHP Warning:  POST Content-Length of 13249028 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Nov-2016 10:06:42 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[10-Nov-2016 10:06:42 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[10-Nov-2016 10:07:00 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:07:00 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:07:00 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[10-Nov-2016 10:07:00 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[10-Nov-2016 10:07:00 America/Vancouver] PHP Warning:  rename(Lab6.java,4560Lab6.java): No such file or directory in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[10-Nov-2016 10:08:06 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[10-Nov-2016 10:08:06 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[10-Nov-2016 10:08:20 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:08:20 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:08:20 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:08:20 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:08:57 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:08:57 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:08:57 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:08:57 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:09:32 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:09:32 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:09:43 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:09:43 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:12:45 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:12:45 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:12:45 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:12:45 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:12:45 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:12:45 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:12:45 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Nov-2016 10:12:45 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[20-Nov-2016 19:55:36 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[20-Nov-2016 19:55:36 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[21-Nov-2016 03:58:57 UTC] PHP Warning:  POST Content-Length of 1680318561 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Nov-2016 19:58:57 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[20-Nov-2016 19:58:57 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[03-Dec-2016 23:23:16 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[03-Dec-2016 23:23:16 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[05-Dec-2016 14:26:39 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[05-Dec-2016 14:26:40 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:19 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[08-Dec-2016 12:16:19 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Dec-2016 12:16:23 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[09-Dec-2016 06:34:30 UTC] PHP Warning:  POST Content-Length of 13475919 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Dec-2016 22:34:30 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[08-Dec-2016 22:34:30 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[29-Dec-2016 10:36:16 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[29-Dec-2016 10:36:16 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[29-Dec-2016 10:36:17 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[29-Dec-2016 10:36:17 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[29-Dec-2016 10:36:17 America/Vancouver] PHP Warning:  rename(Lab8.java,6076Lab8.java): No such file or directory in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[29-Dec-2016 10:44:49 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[29-Dec-2016 10:44:49 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[29-Dec-2016 10:44:49 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[29-Dec-2016 10:44:49 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[29-Dec-2016 10:44:49 America/Vancouver] PHP Warning:  rename(Lab8.java,533Lab8.java): No such file or directory in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[29-Dec-2016 10:45:01 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[29-Dec-2016 10:45:04 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[05-Jan-2017 11:20:33 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[05-Jan-2017 11:20:33 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Jan-2017 14:22:57 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[08-Jan-2017 14:22:57 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[14-Jan-2017 16:08:57 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[14-Jan-2017 16:08:57 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[23-Jan-2017 20:59:58 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[23-Jan-2017 20:59:58 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[23-Jan-2017 20:59:58 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[23-Jan-2017 20:59:58 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[24-Jan-2017 14:09:52 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[24-Jan-2017 14:09:52 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[24-Jan-2017 14:09:52 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[24-Jan-2017 14:09:52 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[24-Jan-2017 14:09:52 America/Vancouver] PHP Warning:  rename(Book1.xlsx,7246Book1.xlsx): No such file or directory in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[24-Jan-2017 14:09:52 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[24-Jan-2017 14:09:52 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[29-Jan-2017 16:32:17 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[29-Jan-2017 16:32:17 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[31-Jan-2017 16:22:18 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[31-Jan-2017 16:22:19 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[01-Feb-2017 12:59:37 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[01-Feb-2017 12:59:37 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[01-Feb-2017 12:59:46 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[01-Feb-2017 12:59:46 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[01-Feb-2017 12:59:54 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[01-Feb-2017 12:59:54 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[19-Feb-2017 19:48:08 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[19-Feb-2017 19:48:08 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[20-Feb-2017 20:36:21 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[20-Feb-2017 20:36:21 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[20-Feb-2017 20:36:37 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[20-Feb-2017 20:36:37 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[20-Feb-2017 20:36:37 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[20-Feb-2017 20:36:37 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[20-Feb-2017 20:36:37 America/Vancouver] PHP Warning:  rename(Test1ReviewSol.pdf,9994Test1ReviewSol.pdf): No such file or directory in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[23-Feb-2017 22:44:22 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[23-Feb-2017 22:44:22 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[24-Feb-2017 19:57:42 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[24-Feb-2017 19:57:42 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[24-Feb-2017 22:11:28 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[24-Feb-2017 22:11:28 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[24-Feb-2017 23:44:21 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[24-Feb-2017 23:44:21 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[21-Mar-2017 15:17:22 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[21-Mar-2017 15:17:22 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Mar-2017 08:03:57 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Mar-2017 08:03:57 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Mar-2017 08:04:02 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Mar-2017 08:04:02 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Mar-2017 15:31:06 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Mar-2017 15:31:06 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[29-Mar-2017 05:21:24 UTC] PHP Warning:  POST Content-Length of 26310876 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Mar-2017 22:21:24 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Mar-2017 22:21:24 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[29-Mar-2017 05:23:59 UTC] PHP Warning:  POST Content-Length of 26310876 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Mar-2017 22:23:59 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Mar-2017 22:23:59 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[06-Apr-2017 12:59:33 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[06-Apr-2017 12:59:33 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[06-Apr-2017 12:59:48 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[06-Apr-2017 12:59:48 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 09:28:54 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 09:28:54 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 10:16:43 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 10:16:43 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 16:28:12 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 16:28:12 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 21:43:29 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 21:43:29 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 21:43:29 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[10-Apr-2017 21:43:29 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[10-Apr-2017 21:43:29 America/Vancouver] PHP Warning:  rename(Lab6.zip,3443Lab6.zip): No such file or directory in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[10-Apr-2017 21:43:36 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[10-Apr-2017 21:43:36 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[10-Apr-2017 21:43:40 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 21:43:40 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 22:11:42 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 22:11:42 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[10-Apr-2017 22:12:20 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[10-Apr-2017 22:12:20 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[17-Apr-2017 20:00:52 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[17-Apr-2017 20:00:52 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[17-Apr-2017 20:00:55 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[17-Apr-2017 20:00:55 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[17-Apr-2017 22:53:13 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[17-Apr-2017 22:53:13 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[17-Apr-2017 22:53:13 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[17-Apr-2017 22:53:13 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[17-Apr-2017 22:53:13 America/Vancouver] PHP Warning:  rename(Notes.txt,8008Notes.txt): No such file or directory in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[17-Apr-2017 22:53:13 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[17-Apr-2017 22:53:13 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[21-Apr-2017 13:22:45 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[21-Apr-2017 13:22:45 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:23:50 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:23:50 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:23:54 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:23:54 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:24:38 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:24:38 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:24:45 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:24:45 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:24:54 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:24:54 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:25:01 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:25:01 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:38:49 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:38:49 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:38:53 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:38:53 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:46:12 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:46:12 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:46:22 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:46:22 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:50:43 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:50:43 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:51:00 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:51:00 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:51:03 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:51:03 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:53:43 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:53:43 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:53:46 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:53:46 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:55:36 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:55:36 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:55:53 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:55:53 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[28-Apr-2017 13:56:07 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:56:07 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:58:21 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:58:21 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:58:45 America/Vancouver] PHP Notice:  Undefined variable: valid_formats in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:58:45 America/Vancouver] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hexzocom/public_html/Downloads/upload.php on line 18
+[28-Apr-2017 13:58:45 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[28-Apr-2017 13:58:45 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[28-Apr-2017 13:59:00 America/Vancouver] PHP Warning:  include(upload.php): failed to open stream: No such file or directory in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 13:59:00 America/Vancouver] PHP Warning:  include(): Failed opening 'upload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 13:59:04 America/Vancouver] PHP Warning:  include(upload.php): failed to open stream: No such file or directory in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 13:59:04 America/Vancouver] PHP Warning:  include(): Failed opening 'upload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 13:59:13 America/Vancouver] PHP Warning:  include(upload.php): failed to open stream: No such file or directory in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 13:59:13 America/Vancouver] PHP Warning:  include(): Failed opening 'upload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 13:59:15 America/Vancouver] PHP Warning:  include(upload.php): failed to open stream: No such file or directory in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 13:59:15 America/Vancouver] PHP Warning:  include(): Failed opening 'upload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 13:59:35 America/Vancouver] PHP Warning:  include(upload.php): failed to open stream: No such file or directory in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 13:59:35 America/Vancouver] PHP Warning:  include(): Failed opening 'upload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 14:00:04 America/Vancouver] PHP Warning:  include(upload.php): failed to open stream: No such file or directory in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 14:00:04 America/Vancouver] PHP Warning:  include(): Failed opening 'upload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 14:00:18 America/Vancouver] PHP Warning:  include(upload.php): failed to open stream: No such file or directory in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 14:00:18 America/Vancouver] PHP Warning:  include(): Failed opening 'upload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 14:00:34 America/Vancouver] PHP Warning:  include(upload.php): failed to open stream: No such file or directory in /home/hexzocom/public_html/Downloads/index.php on line 108
+[28-Apr-2017 14:00:34 America/Vancouver] PHP Warning:  include(): Failed opening 'upload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/hexzocom/public_html/Downloads/index.php on line 108
+[30-Apr-2017 00:19:54 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[30-Apr-2017 00:19:54 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[30-Apr-2017 00:19:57 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[30-Apr-2017 00:19:57 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[03-May-2017 17:26:04 America/Vancouver] PHP Warning:  include(upload.php): failed to open stream: No such file or directory in /home/hexzocom/public_html/Downloads/index.php on line 109
+[03-May-2017 17:26:04 America/Vancouver] PHP Warning:  include(): Failed opening 'upload.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/hexzocom/public_html/Downloads/index.php on line 109
+[03-May-2017 17:26:30 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[03-May-2017 17:26:30 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[03-May-2017 17:26:51 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[03-May-2017 17:26:51 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[03-May-2017 17:28:12 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[03-May-2017 17:28:12 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[08-May-2017 23:05:49 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[08-May-2017 23:05:49 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[12-May-2017 21:15:03 UTC] PHP Warning:  POST Content-Length of 204853564 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-May-2017 14:15:04 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[12-May-2017 14:15:04 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[13-May-2017 04:03:22 UTC] PHP Warning:  POST Content-Length of 94616347 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-May-2017 21:03:22 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[12-May-2017 21:03:22 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[17-May-2017 09:29:55 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[17-May-2017 09:29:55 America/Vancouver] PHP Notice:  Undefined variable: thumb_dir in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[17-May-2017 09:29:55 America/Vancouver] PHP Warning:  rename(Statics - MENG 175.zip,6743Statics - MENG 175.zip): No such file or directory in /home/hexzocom/public_html/Downloads/upload.php on line 26
+[17-May-2017 09:30:10 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[17-May-2017 09:30:10 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[26-May-2017 21:32:30 America/Vancouver] PHP Notice:  Undefined index: files in /home/hexzocom/public_html/Downloads/upload.php on line 9
+[26-May-2017 21:32:30 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/hexzocom/public_html/Downloads/upload.php on line 9
